@@ -1,0 +1,14 @@
+C:\Users\nwogo\Documents\hello\exercise\bin\Debug\net8.0\exercise.exe
+C:\Users\nwogo\Documents\hello\exercise\bin\Debug\net8.0\exercise.deps.json
+C:\Users\nwogo\Documents\hello\exercise\bin\Debug\net8.0\exercise.runtimeconfig.json
+C:\Users\nwogo\Documents\hello\exercise\bin\Debug\net8.0\exercise.dll
+C:\Users\nwogo\Documents\hello\exercise\bin\Debug\net8.0\exercise.pdb
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\exercise.AssemblyInfoInputs.cache
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\exercise.AssemblyInfo.cs
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\exercise.dll
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\refint\exercise.dll
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\exercise.pdb
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\exercise.genruntimeconfig.cache
+C:\Users\nwogo\Documents\hello\exercise\obj\Debug\net8.0\ref\exercise.dll
